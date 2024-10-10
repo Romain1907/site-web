@@ -70,6 +70,7 @@ figure {
 }
 img {
     border-style: none;
+    height: auto;
 }
 code, kbd, pre, samp {
     font-family: monospace, monospace;
